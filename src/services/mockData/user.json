@@ -1,0 +1,158 @@
+[
+  {
+    "id": "user-001",
+    "name": "Sarah Johnson",
+    "email": "sarah.johnson@email.com",
+    "phone": "(555) 123-4567",
+    "userType": "buyer",
+    "savedSearches": [
+      {
+        "id": "search-001",
+        "name": "Downtown Condos",
+        "criteria": {
+          "location": "San Francisco, CA",
+          "priceRange": [800000, 1500000],
+          "propertyType": "condo",
+          "bedrooms": 2
+        }
+      }
+    ],
+    "favoriteProperties": ["prop-001", "prop-003"]
+  },
+  {
+    "id": "user-002",
+    "name": "Michael Chen",
+    "email": "michael.chen@email.com",
+    "phone": "(555) 234-5678",
+    "userType": "seller",
+    "savedSearches": [],
+    "favoriteProperties": []
+  },
+  {
+    "id": "user-003",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@email.com",
+    "phone": "(555) 345-6789",
+    "userType": "agent",
+    "savedSearches": [
+      {
+        "id": "search-002",
+        "name": "Family Homes Austin",
+        "criteria": {
+          "location": "Austin, TX",
+          "priceRange": [400000, 800000],
+          "propertyType": "house",
+          "bedrooms": 3
+        }
+      }
+    ],
+    "favoriteProperties": ["prop-004", "prop-006"]
+  },
+  {
+    "id": "user-004",
+    "name": "David Thompson",
+    "email": "david.thompson@email.com",
+    "phone": "(555) 456-7890",
+    "userType": "buyer",
+    "savedSearches": [],
+    "favoriteProperties": ["prop-002", "prop-007"]
+  },
+  {
+    "id": "user-005",
+    "name": "Jessica Wang",
+    "email": "jessica.wang@email.com",
+    "phone": "(555) 567-8901",
+    "userType": "renter",
+    "savedSearches": [
+      {
+        "id": "search-003",
+        "name": "Downtown Lofts",
+        "criteria": {
+          "location": "Denver, CO",
+          "priceRange": [2000, 4000],
+          "propertyType": "loft",
+          "bedrooms": 1
+        }
+      }
+    ],
+    "favoriteProperties": ["prop-005", "prop-008"]
+  },
+  {
+    "id": "user-006",
+    "name": "Robert Martinez",
+    "email": "robert.martinez@email.com",
+    "phone": "(555) 678-9012",
+    "userType": "investor",
+    "savedSearches": [
+      {
+        "id": "search-004",
+        "name": "Investment Properties",
+        "criteria": {
+          "location": "Miami, FL",
+          "priceRange": [300000, 1000000],
+          "propertyType": "any",
+          "bedrooms": 2
+        }
+      }
+    ],
+    "favoriteProperties": ["prop-003", "prop-008"]
+  },
+  {
+    "id": "user-007",
+    "name": "Amanda Foster",
+    "email": "amanda.foster@email.com",
+    "phone": "(555) 789-0123",
+    "userType": "buyer",
+    "savedSearches": [],
+    "favoriteProperties": ["prop-009", "prop-010"]
+  },
+  {
+    "id": "user-008",
+    "name": "James Wilson",
+    "email": "james.wilson@email.com",
+    "phone": "(555) 890-1234",
+    "userType": "seller",
+    "savedSearches": [],
+    "favoriteProperties": []
+  },
+  {
+    "id": "user-009",
+    "name": "Lisa Brown",
+    "email": "lisa.brown@email.com",
+    "phone": "(555) 901-2345",
+    "userType": "agent",
+    "savedSearches": [
+      {
+        "id": "search-005",
+        "name": "Luxury Homes",
+        "criteria": {
+          "location": "Boston, MA",
+          "priceRange": [1500000, 3000000],
+          "propertyType": "house",
+          "bedrooms": 4
+        }
+      }
+    ],
+    "favoriteProperties": ["prop-009", "prop-012"]
+  },
+  {
+    "id": "user-010",
+    "name": "Kevin Lee",
+    "email": "kevin.lee@email.com",
+    "phone": "(555) 012-3456",
+    "userType": "renter",
+    "savedSearches": [
+      {
+        "id": "search-006",
+        "name": "High-Rise Apartments",
+        "criteria": {
+          "location": "Chicago, IL",
+          "priceRange": [3000, 7000],
+          "propertyType": "apartment",
+          "bedrooms": 2
+        }
+      }
+    ],
+    "favoriteProperties": ["prop-011"]
+  }
+]

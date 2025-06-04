@@ -1,0 +1,494 @@
+[
+  {
+    "id": "prop-001",
+    "title": "Modern Downtown Penthouse",
+    "description": "Stunning penthouse with panoramic city views, featuring floor-to-ceiling windows, premium finishes, and a private rooftop terrace. This luxury residence offers the perfect blend of contemporary design and urban sophistication.",
+    "price": 1250000,
+    "location": {
+      "address": "1200 Metropolitan Ave",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94103",
+      "coordinates": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "specifications": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFeet": 2400,
+      "lotSize": 0,
+      "yearBuilt": 2019
+    },
+    "amenities": [
+      "Rooftop Terrace",
+      "City Views",
+      "Hardwood Floors",
+      "Stainless Steel Appliances",
+      "In-unit Laundry",
+      "Concierge Service",
+      "Fitness Center",
+      "Parking Garage"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1554995207-c18c203602cb?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-01-15T00:00:00.000Z",
+    "agentId": "agent-001"
+  },
+  {
+    "id": "prop-002",
+    "title": "Charming Victorian Home",
+    "description": "Beautifully restored Victorian home with original architectural details, updated kitchen, and spacious backyard. Located in a historic neighborhood with tree-lined streets and walkable amenities.",
+    "price": 850000,
+    "location": {
+      "address": "456 Heritage Street",
+      "city": "Portland",
+      "state": "OR",
+      "zip": "97210",
+      "coordinates": {
+        "lat": 45.5152,
+        "lng": -122.6784
+      }
+    },
+    "specifications": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 2800,
+      "lotSize": 6000,
+      "yearBuilt": 1895
+    },
+    "amenities": [
+      "Original Hardwood",
+      "Updated Kitchen",
+      "Fireplace",
+      "Backyard Garden",
+      "Clawfoot Tub",
+      "Bay Windows",
+      "Front Porch",
+      "Historic Details"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1449844908441-8829872d2607?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-01-20T00:00:00.000Z",
+    "agentId": "agent-002"
+  },
+  {
+    "id": "prop-003",
+    "title": "Luxury Waterfront Condo",
+    "description": "Exceptional waterfront condominium with breathtaking ocean views, private balcony, and resort-style amenities. This sophisticated residence features an open floor plan and high-end finishes throughout.",
+    "price": 1850000,
+    "location": {
+      "address": "789 Oceanview Drive",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33139",
+      "coordinates": {
+        "lat": 25.7617,
+        "lng": -80.1918
+      }
+    },
+    "specifications": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 1800,
+      "lotSize": 0,
+      "yearBuilt": 2020
+    },
+    "amenities": [
+      "Ocean Views",
+      "Private Balcony",
+      "Pool Deck",
+      "Spa Services",
+      "Valet Parking",
+      "Beach Access",
+      "Marble Countertops",
+      "Floor-to-Ceiling Windows"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-01T00:00:00.000Z",
+    "agentId": "agent-003"
+  },
+  {
+    "id": "prop-004",
+    "title": "Contemporary Family Home",
+    "description": "Spacious contemporary home perfect for families, featuring an open concept design, gourmet kitchen, and beautifully landscaped yard. Located in a top-rated school district.",
+    "price": 650000,
+    "location": {
+      "address": "321 Maple Ridge Lane",
+      "city": "Austin",
+      "state": "TX",
+      "zip": "78746",
+      "coordinates": {
+        "lat": 30.2672,
+        "lng": -97.7431
+      }
+    },
+    "specifications": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 3200,
+      "lotSize": 8500,
+      "yearBuilt": 2015
+    },
+    "amenities": [
+      "Open Floor Plan",
+      "Gourmet Kitchen",
+      "Master Suite",
+      "Two-Car Garage",
+      "Landscaped Yard",
+      "Granite Countertops",
+      "Walk-in Closets",
+      "Energy Efficient"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-05T00:00:00.000Z",
+    "agentId": "agent-004"
+  },
+  {
+    "id": "prop-005",
+    "title": "Urban Loft Apartment",
+    "description": "Industrial chic loft in converted warehouse with exposed brick walls, soaring ceilings, and modern amenities. Perfect for professionals seeking a unique living space in the arts district.",
+    "price": 3200,
+    "location": {
+      "address": "555 Industrial Way",
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80205",
+      "coordinates": {
+        "lat": 39.7392,
+        "lng": -104.9903
+      }
+    },
+    "specifications": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "squareFeet": 1200,
+      "lotSize": 0,
+      "yearBuilt": 2018
+    },
+    "amenities": [
+      "Exposed Brick",
+      "High Ceilings",
+      "Concrete Floors",
+      "Stainless Appliances",
+      "Washer/Dryer",
+      "Rooftop Access",
+      "Bike Storage",
+      "Pet Friendly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "rent",
+    "status": "active",
+    "listedDate": "2024-02-10T00:00:00.000Z",
+    "agentId": "agent-005"
+  },
+  {
+    "id": "prop-006",
+    "title": "Suburban Ranch Home",
+    "description": "Well-maintained ranch style home with updated kitchen, finished basement, and large fenced yard. Perfect for first-time buyers or those seeking single-level living.",
+    "price": 425000,
+    "location": {
+      "address": "888 Oakwood Circle",
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37215",
+      "coordinates": {
+        "lat": 36.1627,
+        "lng": -86.7816
+      }
+    },
+    "specifications": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFeet": 1800,
+      "lotSize": 7200,
+      "yearBuilt": 1985
+    },
+    "amenities": [
+      "Updated Kitchen",
+      "Finished Basement",
+      "Fenced Yard",
+      "Attached Garage",
+      "Fireplace",
+      "Deck",
+      "Storage Shed",
+      "Quiet Neighborhood"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-12T00:00:00.000Z",
+    "agentId": "agent-006"
+  },
+  {
+    "id": "prop-007",
+    "title": "Luxury Mountain Cabin",
+    "description": "Stunning mountain retreat with panoramic views, stone fireplace, and rustic elegance. Features vaulted ceilings, chef's kitchen, and expansive deck perfect for entertaining.",
+    "price": 975000,
+    "location": {
+      "address": "1500 Alpine Vista Road",
+      "city": "Aspen",
+      "state": "CO",
+      "zip": "81611",
+      "coordinates": {
+        "lat": 39.1911,
+        "lng": -106.8175
+      }
+    },
+    "specifications": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 2600,
+      "lotSize": 12000,
+      "yearBuilt": 2010
+    },
+    "amenities": [
+      "Mountain Views",
+      "Stone Fireplace",
+      "Vaulted Ceilings",
+      "Chef's Kitchen",
+      "Expansive Deck",
+      "Hot Tub",
+      "Ski Storage",
+      "Rustic Elegance"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-15T00:00:00.000Z",
+    "agentId": "agent-007"
+  },
+  {
+    "id": "prop-008",
+    "title": "Beachside Cottage",
+    "description": "Charming beachside cottage just steps from the ocean. Features coastal decor, private patio, and stunning sunset views. Perfect vacation rental or permanent residence.",
+    "price": 4500,
+    "location": {
+      "address": "222 Seashell Lane",
+      "city": "Santa Barbara",
+      "state": "CA",
+      "zip": "93101",
+      "coordinates": {
+        "lat": 34.4208,
+        "lng": -119.6982
+      }
+    },
+    "specifications": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "squareFeet": 900,
+      "lotSize": 2000,
+      "yearBuilt": 1950
+    },
+    "amenities": [
+      "Beach Access",
+      "Ocean Views",
+      "Private Patio",
+      "Coastal Decor",
+      "Outdoor Shower",
+      "Fire Pit",
+      "Parking Space",
+      "Pet Friendly"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1499793983690-e29da59ef1c2?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "rent",
+    "status": "active",
+    "listedDate": "2024-02-18T00:00:00.000Z",
+    "agentId": "agent-008"
+  },
+  {
+    "id": "prop-009",
+    "title": "Historic Brownstone",
+    "description": "Elegant historic brownstone in prestigious neighborhood. Features original details, updated systems, and private garden. A rare opportunity to own a piece of history.",
+    "price": 2100000,
+    "location": {
+      "address": "567 Heritage Avenue",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02116",
+      "coordinates": {
+        "lat": 42.3601,
+        "lng": -71.0589
+      }
+    },
+    "specifications": {
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFeet": 3800,
+      "lotSize": 1800,
+      "yearBuilt": 1875
+    },
+    "amenities": [
+      "Historic Details",
+      "Private Garden",
+      "Original Moldings",
+      "Updated Systems",
+      "Hardwood Floors",
+      "Wine Cellar",
+      "Roof Deck",
+      "Prestigious Location"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1567496898669-ee935f5f647a?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-20T00:00:00.000Z",
+    "agentId": "agent-009"
+  },
+  {
+    "id": "prop-010",
+    "title": "Modern Townhouse",
+    "description": "Contemporary townhouse with sleek design, rooftop terrace, and two-car garage. Features smart home technology and premium finishes throughout three levels of living space.",
+    "price": 725000,
+    "location": {
+      "address": "999 Urban Square",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98102",
+      "coordinates": {
+        "lat": 47.6062,
+        "lng": -122.3321
+      }
+    },
+    "specifications": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "squareFeet": 2200,
+      "lotSize": 1000,
+      "yearBuilt": 2021
+    },
+    "amenities": [
+      "Smart Home Tech",
+      "Rooftop Terrace",
+      "Two-Car Garage",
+      "Premium Finishes",
+      "Three Levels",
+      "Modern Design",
+      "Energy Efficient",
+      "Urban Location"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-aac4c3eac7f4?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-22T00:00:00.000Z",
+    "agentId": "agent-010"
+  },
+  {
+    "id": "prop-011",
+    "title": "Luxury High-Rise Apartment",
+    "description": "Sophisticated high-rise apartment with floor-to-ceiling windows, premium appliances, and building amenities including pool, gym, and concierge services.",
+    "price": 5800,
+    "location": {
+      "address": "1800 Skyline Boulevard",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60611",
+      "coordinates": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    },
+    "specifications": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "squareFeet": 1600,
+      "lotSize": 0,
+      "yearBuilt": 2022
+    },
+    "amenities": [
+      "Floor-to-Ceiling Windows",
+      "Premium Appliances",
+      "Pool Access",
+      "Fitness Center",
+      "Concierge Service",
+      "Valet Parking",
+      "City Views",
+      "24/7 Security"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "rent",
+    "status": "active",
+    "listedDate": "2024-02-25T00:00:00.000Z",
+    "agentId": "agent-011"
+  },
+  {
+    "id": "prop-012",
+    "title": "Country Estate Home",
+    "description": "Magnificent country estate on 5 acres with horse stables, swimming pool, and tennis court. The main house features elegant living spaces and panoramic countryside views.",
+    "price": 1650000,
+    "location": {
+      "address": "2500 Country Club Road",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40241",
+      "coordinates": {
+        "lat": 38.2527,
+        "lng": -85.7585
+      }
+    },
+    "specifications": {
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "squareFeet": 5200,
+      "lotSize": 217800,
+      "yearBuilt": 2005
+    },
+    "amenities": [
+      "Horse Stables",
+      "Swimming Pool",
+      "Tennis Court",
+      "5 Acres",
+      "Countryside Views",
+      "Elegant Interiors",
+      "Guest House",
+      "Circular Driveway"
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80"
+    ],
+    "listingType": "sale",
+    "status": "active",
+    "listedDate": "2024-02-28T00:00:00.000Z",
+    "agentId": "agent-012"
+  }
+]
